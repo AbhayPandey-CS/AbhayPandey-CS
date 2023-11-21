@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)
 <h1 align="center">Hi 👋, I'm Abhay Pandey</h1>
-<h3 align="center">A passionate Full Stack Developer currently in my final year.</h3>
+<h3 align="center">A passionate Full Stack Developer graduated in the year 2023.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypandey-cs&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypandey-cs" /> </p>
 
